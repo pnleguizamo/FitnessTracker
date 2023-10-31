@@ -2636,9 +2636,9 @@ Machine Fly
 3: 6 of 55
 
 OHP
-1: 6 of 50
-2: 4 of 50
-3: 8 of 40
+1: 6 of 5
+2: 4 of 5
+3: 8 of 0
 
 Rope Pull (Black Machine)
 1: 11 of 30

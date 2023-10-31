@@ -18,13 +18,8 @@ var startIndex;
 var endIndex;
 var liftString;
 var splitLines;
-var i = 1;
+var i;
 
-console.log("This is my strength training tracker");
-console.log("The attached text file contains data for all of the lifting sessions that I have tracked since February 2022");
-console.log("This program will show how my strength has progressed on an exercise of choice");
-var liftName = "Squat";
-var liftName = prompt("Choose any exercise: ");
 
 
 // Read the text file
@@ -63,7 +58,7 @@ while(true){
     liftString = data.substring(0, endIndex);
     startIndex = data.indexOf(lastLine);
     data = data.substring(startIndex);
-    i++;
+    
 
     // Assign values in the string to a lift object
     liftList.push(buildLiftObject(liftString));
@@ -72,33 +67,77 @@ while(true){
 
 const oneRepProgress = [];
 const trimmedLiftList = [];
+var completeNameDict = {};
 
 
 for (i = 0; i<liftList.length; i++){
     for (var j = 0; j<liftList[i].exercises.length; j++){
-        if(liftList[i].exercises[j].name.includes(liftName)){
+        if(completeNameDict[liftList[i].exercises[j].name]){
+            (completeNameDict[liftList[i].exercises[j].name])++;
+        }   
+        else{
+            completeNameDict[liftList[i].exercises[j].name] = 1;
+        }
+    }
+}
+
+const keyValueArray = Object.entries(completeNameDict).map(([key, value]) => ({ key, value }));
+
+keyValueArray.sort((a, b) => b.value - a.value);
+
+keyValueArray.forEach(({ key, value }) => {
+    key = key.toString();
+    key = key.replace(/(\r\n|\n|\r)/gm,"");
+    if(value > 2){
+        console.log(key + ": " + value);
+    }
+});
+
+
+console.log("\nThis is my strength training tracker");
+console.log("The attached text file contains data for all of the lifting sessions that I have tracked since February 2022");
+console.log("This program will show how my strength has progressed on an exercise of choice by outputting a bar graph depicting my one rep max");
+console.log("Choose an exercise from the above list. Exercises that I have completed more times will have the best results (with some exceptions)");
+
+
+var liftName = prompt("Choose any exercise: ");
+
+
+for (i = 0; i<liftList.length; i++){
+    for (var j = 0; j<liftList[i].exercises.length; j++){
+        if(liftList[i].exercises[j].name.match(`^${liftName}\r`)){
             oneRepProgress.push(findMax(liftList[i].exercises[j]));
             trimmedLiftList.push(liftList[i]);
         }
     }
 }
 
-
-
 // Find the maximum value in the list to scale the bar graph
 max = 0;
-oneRepProgress.forEach(oneRep=>{max = Math.max(oneRep, max)});
+oneRepProgress.forEach(oneRep=>{if(oneRep){max = Math.max(oneRep, max)}});
 
 const graphWidth = 80;
 
 // Draw the bar graph
-console.log("Bar Graph:");
+console.log("Bar Graph:" + liftName);
 
-oneRepProgress.forEach(value => {
-  const barLength = Math.round((value / max) * graphWidth);
-  const bar = "#".repeat(barLength);
-  console.log(`${value}: ${bar}`);
-});
+// oneRepProgress.forEach(value => {
+//   const barLength = Math.round((value / max) * graphWidth);
+//   const bar = "#".repeat(barLength);
+//   console.log(`${value}: ${bar}`);
+// });
+
+for (i = 0; i<oneRepProgress.length; i++){
+    if(oneRepProgress[i]){
+        value = Math.trunc(oneRepProgress[i]);
+        date = trimmedLiftList[i].date;
+        const barLength = Math.round((value / max) * graphWidth);
+        const bar = "#".repeat(barLength);
+        console.log(`${bar}  ${date}: ${value} `);
+    }
+    
+
+}
 
 
 
