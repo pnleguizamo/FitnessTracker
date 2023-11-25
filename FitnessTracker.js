@@ -11,30 +11,25 @@ const { start } = require('repl');
 const prompt = require("prompt-sync")();
 
 // Specify the path to the text file you want to read
-const filePath = 'RN Bro Split copy.txt';
+const filePath = 'WorkoutLog.txt';
 
-// var dataSet;
 var startIndex;
 var endIndex;
 var liftString;
 var splitLines;
-var i;
+var data;
+const graphWidth = 80;
 
-
-
-// Read the text file
-try {
-    // Synchronously read the file
-    data = fs.readFileSync('RN Bro Split.txt', 'utf8');
-} catch (err) {
-    console.error('Error reading the file:', err);
-}
 const liftList = [];
+const oneRepProgress = [];
+const trimmedLiftList = [];
 
+var completeNameDict = {};
 
+data = readfile(filePath)
 // Loop through the text file until there are no exercises left
+// The string manipulation in this loop is specific to my text file / workout log
 while(true){
-// for(i = 1; i< 3; i++){
     startIndex = data.match(/.*202[0-9]/);
     startIndex = startIndex.index;
 
@@ -62,47 +57,21 @@ while(true){
 
     // Assign values in the string to a lift object
     liftList.push(buildLiftObject(liftString));
-// }
 }
 
-const oneRepProgress = [];
-const trimmedLiftList = [];
-var completeNameDict = {};
 
-
-for (i = 0; i<liftList.length; i++){
-    for (var j = 0; j<liftList[i].exercises.length; j++){
-        if(completeNameDict[liftList[i].exercises[j].name]){
-            (completeNameDict[liftList[i].exercises[j].name])++;
-        }   
-        else{
-            completeNameDict[liftList[i].exercises[j].name] = 1;
-        }
-    }
-}
-
-const keyValueArray = Object.entries(completeNameDict).map(([key, value]) => ({ key, value }));
-
-keyValueArray.sort((a, b) => b.value - a.value);
-
-keyValueArray.forEach(({ key, value }) => {
-    key = key.toString();
-    key = key.replace(/(\r\n|\n|\r)/gm,"");
-    if(value > 2){
-        console.log(key + ": " + value);
-    }
-});
-
-
-console.log("\nThis is my strength training tracker");
+console.log("This is my strength training tracker");
 console.log("The attached text file contains data for all of the lifting sessions that I have tracked since February 2022");
 console.log("This program will show how my strength has progressed on an exercise of choice by outputting a bar graph depicting my one rep max");
-console.log("Choose an exercise from the above list. Exercises that I have completed more times will have the best results (with some exceptions)");
-
+if(Number(prompt("Type 1 to see a list of valid exercises and how many times they appear on my log or type 0 to skip "))){
+    console.log("");
+    printExerciseCount(liftList);
+    console.log("\nChoose an exercise from the above list. Exercises that I have completed more times will have the best results (with some exceptions)\n");
+}
 
 var liftName = prompt("Choose any exercise: ");
 
-
+// Populate the relevant lists with any instance of the chosen exercise
 for (i = 0; i<liftList.length; i++){
     for (var j = 0; j<liftList[i].exercises.length; j++){
         if(liftList[i].exercises[j].name.match(`^${liftName}\r`)){
@@ -112,35 +81,7 @@ for (i = 0; i<liftList.length; i++){
     }
 }
 
-// Find the maximum value in the list to scale the bar graph
-max = 0;
-oneRepProgress.forEach(oneRep=>{if(oneRep){max = Math.max(oneRep, max)}});
-
-const graphWidth = 80;
-
-// Draw the bar graph
-console.log("Bar Graph:" + liftName);
-
-// oneRepProgress.forEach(value => {
-//   const barLength = Math.round((value / max) * graphWidth);
-//   const bar = "#".repeat(barLength);
-//   console.log(`${value}: ${bar}`);
-// });
-
-for (i = 0; i<oneRepProgress.length; i++){
-    if(oneRepProgress[i]){
-        value = Math.trunc(oneRepProgress[i]);
-        date = trimmedLiftList[i].date;
-        const barLength = Math.round((value / max) * graphWidth);
-        const bar = "#".repeat(barLength);
-        console.log(`${bar}  ${date}: ${value} `);
-    }
-    
-
-}
-
-
-
+drawBarGraph(oneRepProgress, trimmedLiftList, liftName);
 
 
 function buildLiftObject(liftString){
@@ -207,8 +148,69 @@ function findMax(exercise){
     var oneRepMax = 0;
     var averageOneRepMax = 0;
     for (var i = 0; i<exercise.sets.length; i++){
+        // One rep max formula
         oneRepMax = exercise.sets[i].weight / (1.0278 - 0.0278 * exercise.sets[i].reps);
         averageOneRepMax += oneRepMax;
     }
     return averageOneRepMax / exercise.sets.length;
+}
+
+function readfile(filePath){
+    // Read the text file
+    try {
+        // Synchronously read the file
+        data = fs.readFileSync(filePath, 'utf8');
+    } catch (err) {
+        console.error('Error reading the file:', err);
+    }
+    return data;
+}
+
+// Make a dictionary object and assign each unique exercise an index/key
+// Assign each key an integer value that counts how many separate times the unique exercise appears in the workout log
+function printExerciseCount(liftList){
+    for (i = 0; i<liftList.length; i++){
+        for (var j = 0; j<liftList[i].exercises.length; j++){
+            if(completeNameDict[liftList[i].exercises[j].name]){
+                (completeNameDict[liftList[i].exercises[j].name])++;
+            }   
+            else{
+                completeNameDict[liftList[i].exercises[j].name] = 1;
+            }
+        }
+    }
+    
+    // Convert the dictionary to an array
+    const keyValueArray = Object.entries(completeNameDict).map(([key, value]) => ({ key, value }));
+    
+    // Sort the exercises by number of times they appear
+    keyValueArray.sort((a, b) => b.value - a.value);
+    
+    // Print each exercise with how many times they appear in the log, in sorted order
+    keyValueArray.forEach(({ key, value }) => {
+        key = key.toString();
+        key = key.replace(/(\r\n|\n|\r)/gm,"");
+        if(value > 5){
+            console.log(key + ": " + value);
+        }
+    });
+}
+
+function drawBarGraph(oneRepProgress, trimmedLiftList, liftName){
+    // Find the maximum value in the list to scale the bar graph
+    max = 0;
+    oneRepProgress.forEach(oneRep=>{if(oneRep){max = Math.max(oneRep, max)}});
+
+    // Draw the bar graph
+    console.log("\nBar Graph:" + liftName);
+
+    for (i = 0; i<oneRepProgress.length; i++){
+        if(oneRepProgress[i]){
+            value = Math.trunc(oneRepProgress[i]);
+            date = trimmedLiftList[i].date;
+            const barLength = Math.round((value / max) * graphWidth);
+            const bar = "#".repeat(barLength);
+            console.log(`${bar}  ${date}: ${value} `);
+        }
+    }
 }
