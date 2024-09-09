@@ -4,14 +4,11 @@
 // Process: Define a list, parse the .txt lift by lift, assign variables to a list and iterate through to print the bar graph
 
 // Import the 'fs' module to work with the file system
-const { match } = require('assert');
-const { log } = require('console');
 const fs = require('fs');
-const { start } = require('repl');
 const prompt = require("prompt-sync")();
 
 // Specify the path to the text file you want to read
-const filePath = 'WorkoutLog.txt';
+const filePath = 'test.txt';
 
 var startIndex;
 var endIndex;
@@ -56,7 +53,13 @@ while(true){
     
 
     // Assign values in the string to a lift object
-    liftList.push(buildLiftObject(liftString));
+    try{
+        liftList.push(buildLiftObject(liftString));
+    }
+    catch(err){
+        console.log(liftString);
+        console.log(err);
+    }
 }
 
 
