@@ -1,0 +1,75 @@
+[
+    {
+        "date": "March 1, 2022",
+        "body_weight": "130"
+    },
+    {
+        "date": "May 20, 2022",
+        "body_weight": "135"
+    },
+    {
+        "date": "July 20, 2022",
+        "body_weight": "140"
+    },
+    {
+        "date": "August 20, 2022",
+        "body_weight": "150"
+    },
+    {
+        "date": "September 24, 2022",
+        "body_weight": "152"
+    },
+    {
+        "date": "October 15, 2022",
+        "body_weight": "160"
+    },
+    {
+        "date": "November 30, 2022",
+        "body_weight": "165"
+    },
+    {
+        "date": "January 1, 2023",
+        "body_weight": "170"
+    },
+    {
+        "date": "March 19, 2023",
+        "body_weight": "158"
+    },
+    {
+        "date": "May 15, 2023",
+        "body_weight": "150"
+    },
+    {
+        "date": "June 18, 2023",
+        "body_weight": "145"
+    },
+    {
+        "date": "August 29, 2023",
+        "body_weight": "130"
+    },
+    {
+        "date": "September 1, 2023",
+        "body_weight": "130"
+    },
+    {
+        "date": "September 20, 2023",
+        "body_weight": "133"
+    },
+    {
+        "date": "January 15, 2024",
+        "body_weight": "150"
+    },
+    {
+        "date": "May 6, 2024",
+        "body_weight": "168"
+    },
+    {
+        "date": "June 14, 2024",
+        "body_weight": "156"
+    },
+    {
+        "date": "September 1, 2024",
+        "body_weight": "142"
+    }
+
+]

@@ -49,6 +49,6 @@ if currDay:
 
 json_data = json.dumps(liftObjectList, indent=1)
 
-with open('data.json', 'w') as json_file:
+with open('strength_data.json', 'w') as json_file:
     json_file.write(json_data)
         
