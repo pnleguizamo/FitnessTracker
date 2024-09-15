@@ -30,7 +30,7 @@ BWDateList = []
 ORMList = []
 BWList = []
 exerciseDict = defaultdict(int)
-chosenExercise = "Incline DB Press"
+chosenExercise = input()
 
 for day in strength_data:
     for exercise in day["exercises"]:
