@@ -19,15 +19,20 @@ def findMax(exercise):
     return averageOneRepMax / len(exercise["sets"])
 
 # Open and read the JSON file
-with open('data.json', 'r') as file:
-    data = json.load(file)
+with open('strength_data.json', 'r') as file:
+    strength_data = json.load(file)
+
+with open('bodyweight.json', 'r') as file:
+    bodyweight_data = json.load(file)
 
 dateList = []
+BWDateList = []
 ORMList = []
+BWList = []
 exerciseDict = defaultdict(int)
 chosenExercise = "Incline DB Press"
 
-for day in data:
+for day in strength_data:
     for exercise in day["exercises"]:
         exerciseDict[exercise["name"]] += 1
 
@@ -44,32 +49,28 @@ for day in data:
 
             ORMList.append(findMax(exercise))
 
-# print(dateList)
-# print(ORMList)
+for day in bodyweight_data:
+    BWDateList.append(day["date"])
+    BWList.append(float(day["body_weight"]))
 
 data = {
     'Date': dateList,
-    '1RM': ORMList,
-    'weight' : np.cos(ORMList)
+    '1RM': ORMList
+}
+
+BWData = {
+    'BWDate' : BWDateList,
+    'Weight' : BWList
 }
 
 # Convert the data to a DataFrame
 df = pd.DataFrame(data)
+bodyWeightDF = pd.DataFrame(BWData)
 
 df['Date'] = pd.to_datetime(df['Date'])
+bodyWeightDF['BWDate'] = pd.to_datetime(bodyWeightDF['BWDate'])
 
 plt.figure(figsize=(10, 5))
-
-ax1 = plt.subplot()
-# ax1.set_ylabel('1RM', color='red')
-ax1.plot(df['Date'].values, df['1RM'].values, marker='o', linestyle='-', color='b')
-# ax1.tick_params(axis='y', labelcolor='red')
-
-
-# ax2 = ax1.twinx()
-# ax2.plot(df['Date'].values, df['weight'].values, 'b-', label='Body Weight')
-# ax2.set_ylabel('Body Weight', color='b')
-# ax2.tick_params('y', colors='b')
 
 plt.xticks(rotation=90)
 
@@ -83,27 +84,28 @@ z = np.polyfit(df.index, df['1RM'], 1)  # Fit a linear trend
 p = np.poly1d(z)
 plt.plot(df['Date'].values, p(df.index), linestyle='--', color='r', label='Trend Line')
 
-ax.legend(loc='upper left')
 
 # Add labels and title
 plt.xlabel('Date')
-plt.ylabel('1RM')
+# plt.ylabel('1RM')
 title = 'Strength Progress Over Time (' + chosenExercise + ')'
 plt.title(title)
 
+ax1 = plt.subplot()
+ax1.set_ylabel('1RM', color='b')
+ax1.plot(df['Date'].values, df['1RM'].values, marker='o', linestyle='-', color='b')
+ax1.tick_params(axis='y', colors='b')
 
 
-# Convert dates to numerical format (e.g., ordinal numbers)
-# df['Date_ordinal'] = df['Date'].map(pd.Timestamp.toordinal)
-# def line_of_best_fit(x):
-#     return slope * x + intercept
-# # Perform linear regression
-# slope, intercept, r_value, p_value, std_err = linregress(df['Date_ordinal'], df['1RM'])
-# ax.plot(df['Date'].values, line_of_best_fit(df['Date_ordinal'].values), linestyle='-', color='r', label='Line of Best Fit')
+ax2 = ax1.twinx()
+ax2.set_ylabel('Body Weight', color='g')
+ax2.plot(bodyWeightDF['BWDate'].values, bodyWeightDF['Weight'].values, 'g', label='Body Weight')
+ax2.tick_params('y', colors='g')
 
 
-
-plt.grid(True)
+ax.legend(loc='upper left')
+# ax2.legend(loc = 'upper left')
+# plt.grid(True)
 
 plt.tight_layout()
 
