@@ -1,7 +1,7 @@
 import re
 import json
 
-text_file = open('output.txt', 'r')
+text_file = open('currMay25.txt', 'r')
 
 full_text = text_file.read()
 
@@ -49,6 +49,6 @@ if currDay:
 
 json_data = json.dumps(liftObjectList, indent=1)
 
-with open('strength_data.json', 'w') as json_file:
+with open('currMay25.json', 'w') as json_file:
     json_file.write(json_data)
         

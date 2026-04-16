@@ -79,6 +79,8 @@ ax.axvspan(pd.Timestamp('2022-02-01'), pd.Timestamp('2023-01-01'), color='green'
 ax.axvspan(pd.Timestamp('2023-01-01'), pd.Timestamp('2023-09-01'), color='red', alpha=0.3, label='Cut 1')
 ax.axvspan(pd.Timestamp('2023-09-01'), pd.Timestamp('2024-05-01'), color='blue', alpha=0.3, label='Bulk 2')
 ax.axvspan(pd.Timestamp('2024-05-01'), pd.Timestamp('2024-09-01'), color='orange', alpha=0.3, label='Cut 2')
+ax.axvspan(pd.Timestamp('2024-09-01'), pd.Timestamp('2025-04-20'), color='pink', alpha=0.3, label='Bulk 3')
+ax.axvspan(pd.Timestamp('2025-04-20'), pd.Timestamp('2025-06-01'), color='purple', alpha=0.3, label='Cut 3')
 
 z = np.polyfit(df.index, df['1RM'], 1)  # Fit a linear trend
 p = np.poly1d(z)

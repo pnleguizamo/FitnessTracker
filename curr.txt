@@ -1,0 +1,872 @@
+
+September 1, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 8 of 70
+2: 7 of 70
+3: 8 of 60
+
+Upper Row Machine
+1: 8 of 140
+2: 8 of 130
+3: 8 of 120
+
+Machine Curl
+1: 10ish of 70
+2: 7 of 65
+3: 7 of 60
+
+Reverse Pec Deck
+1: 7 of 115
+2: 
+
+September 3, 2024 (Legs 1)
+
+Hammy Curl
+1: 8 of 115
+2: 7 of 105
+3: 7 of 90
+
+Squat
+1: 5 of 90
+2: 7 of 85
+3: 7 of 80
+
+Quad Blaster
+1: 10 of 160
+2: 9 of 150
+3: 
+
+September 4, 2024 (Push 2)
+
+Incline Smith
+1: 9ish of 45
+2: 8 of 45
+3: 7 of 45
+
+Barbell Skullcrusher
+1: 8 of 50
+2: 7ish of 50
+3: 7 of 40
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Cable Fly
+1: 9 of 40
+2: 7 of 40
+
+September 5, 2024 (Pull 1)
+
+Cable Row
+1: 8 of 145
+2: 8 of 145
+3: 7 of 140
+
+Lat Pulldown
+1: 8 of 120
+2: 7 of 120
+3: 9 of 100
+
+Lat Pullover
+1: 7 of 57.5
+2: 8ish of 50
+3: 7 of 50
+
+Hammer Curl
+1: 7ish of 35
+
+DB Curl
+1: 9 of 22.5
+
+September 8, 2024 (Push 1) (Clubhouse)
+
+Smith Bench
+1: 7 of 55
+2: 7 of 50
+
+Incline DB Press
+1: 6 of 55
+2: 6 of 50
+3: 6 of 45
+
+Cable Lateral Raise
+1: 9 of 20
+2: 8 of 20
+3: 8 of 20
+4: 7 of 20
+
+Single Cable Tricep Pull
+1: 9 of 30
+
+September 10, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 8 of 70
+2: 7 of 65
+3: 8 of 60
+
+Upper Row Machine
+1: 8 of 140
+2: 8 of 130
+3: 8 of 120
+
+Machine Curl
+1: 9 of 70
+2: 8ish of 65
+3: 7 of 60
+
+Reverse Pec Deck
+1: 7 of 115
+2: 7 of 110
+3: 
+
+September 12, 2024 (Legs 2)
+
+RDL
+1: 6 of 90
+2: 7 of 85
+3: 6 of 85
+
+Leg Press
+1: 10 of 180
+2: 10 of 160
+3: 8 of 135
+
+Hammy Curl
+1: 7 of 105
+
+Quad Blaster
+1: 8 of 160
+2: 8 of 150
+
+September 13, 2024 (Pull 1)
+
+Mid Row
+1: 12 of 145
+2: 10 of 165
+3: 10 of 165
+
+Lat Pulldown
+1: 7 of 125
+2: 9 of 110
+3: 9 of 95
+
+Lat Pullover (Clubhouse)
+1: 9 of 110 
+2: 8 of 110
+3: 8 of 100
+
+Hammer Curl
+1: 10 of 30
+2: 8 of 30
+
+Incline Curl
+1: 9 of 20
+2: 
+
+September 15, 2024 (Push 2)
+
+Incline Smith
+1: 8 of 45
+2: 7ish of 45
+3: 7 of 40
+
+Barbell Skullcrusher
+1: 8 of 50
+2: 7 of 50
+3: 7 of 40
+
+DB Lateral Raise
+1: 7ish of 25
+2: 9ish of 20
+3: 8 of 20
+4: 7 of 20
+
+September 17, 2024 (Legs 1)
+
+Hammy Curl
+1: 8 of 115
+2: 7 of 105
+3: 7 of 90
+
+Squat
+1: 7 of 85
+2: 6 of 85
+3: 6 of 80
+
+Quad Blaster
+1: 10 of 160
+2: 9 of 150
+3: 8 of 140
+
+September 19, 2024 (Push 1)
+
+Bench
+1: 4 of 50
+2: 5 of 45
+
+Incline DB Press
+1: 6 of 55
+2: 6 of 50
+3: 7 of 45
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Machine Lateral Raise
+1: 6 of 65
+2: 8 of 60
+3: 6 of 50
+4: 7 of 40
+
+Tricep Pushdown Machine
+1: 6 of 150
+
+September 22, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 6 of 65
+
+Lat Pulldown
+1: 7 of 125
+2: 7 of 110
+
+Smith Row
+1: 7 of 45
+2: 9 of 35
+3: 8 of 35
+
+Barbell Curl
+1: 10 of 50
+2: 7 of 50
+3: 9 of 40
+
+September 25, 2024 (Legs 2)
+
+RDL
+1: 6 of 90
+2: 7 of 85
+3: 6 of 85
+
+Leg Press
+1: 9 of 180
+2: 9 of 160
+3: 9 of 135
+
+Quad Blaster
+1: 8 of 160
+2: 8 of 150
+
+Hammy Curl
+1: 8 of 105
+2: 7 of 95
+
+September 26, 2024 (Push 2) (Clubhouse)
+
+Incline Smith
+1: 8 of 45
+2: 7 of 45
+3: 7 of 40
+
+Barbell Skullcrusher
+1: 7 of 50
+2: 7 of 50
+3: 8 of 40
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Cable Fly
+1: 8 of 40
+
+September 28, 2024 (Pull 1) (Clubhouse)
+
+Smith Row
+1: 8 of 45
+2: 8 of 45
+3: 8 of 40
+
+Lat Pulldown
+1: 7 of 125
+2: 9 of 110
+3: 7 of 110
+
+Lat Pullover
+1: 9 of 110
+2: 8 of 110
+3: 9 of 100
+
+Hammer Curl
+1: 7 of 35
+2: 8 of 30
+
+Incline Curl
+1: 9 of 20
+2: 8 of 20
+
+September 30, 2024 (Legs 1) (Clubhouse)
+
+Hammy Curl
+1: 9 of 155
+2: 9 of 155
+3: 8 of 155
+
+Smith Squat
+1: 7 of 90
+2: 7 of 85
+3: 7 of 80
+
+Quad Blaster
+1: 9 of 155
+2: 9 of 135
+
+October 1, 2024 (Push 1)
+
+Bench
+1: 4 of 50
+2: 6 of 45
+
+Incline DB Press
+1: 6 of 55
+2: 6 of 50
+3: 7 of 45
+
+Dips
+1: 9 of 0
+2: 7 of 0
+3: 7 of 0
+
+Machine Lateral Raise
+1: 6 of 65
+2: 8ish of 60
+3: 8 of 45
+4: 8 of 40
+
+Tricep Pushdown Machine
+1: 6 of 150
+2: 7 of 140
+
+October 3, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 8 of 70
+2: 7 of 70
+3: 9 of 60
+
+Upper Row Machine
+1: 8 of 140
+2: 8 of 130
+3: 8 of 120
+
+Machine Curl
+1: 9 of 70
+2: 8 of 65
+3: 9 of 55
+
+Reverse Pec Deck
+1: 7 of 115
+2: 8 of 100
+
+October 5, 2024 (Push 2) (Clubhouse)
+
+Incline Smith
+1: 8 of 45
+2: 7 of 45
+3: 8 of 40
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 9 of 20
+4: 8 of 20
+
+Barbell Skullcrusher
+1: 8 of 50
+2: 7 of 50
+3: 8 of 40
+
+Cable Fly
+1: 
+2: 
+
+October 6, 2024 (Legs 2)
+
+RDL
+1: 7 of 90
+2: 7 of 85
+3: 7 of 80
+
+Leg Press
+1: 10 of 180
+2: 9 of 160
+3: 6 of 160
+
+October 9, 2024 (Pull 1)
+
+Cable Row
+1: 8 of 150
+2: 8 of 145
+3: 8 of 140
+
+Lat Pulldown
+1: 8 of 125
+2: 8 of 120
+3: 8 of 120
+
+Lat Pullover
+1: 6 of 65
+2: 7 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 7 of 35
+2: 8 of 30
+
+Incline Curl
+1: 8 of 20
+2: 7 of 20
+
+October 11, 2024 (Legs 1) (Clubhouse)
+
+Hammy Curl
+1: 10 of 155
+2: 9 of 155
+3: 9 of 155
+
+Smith Squat
+1: 6 of 90
+2: 6 of 85
+3: 7 of 80
+
+Quad Blaster
+1: 10 of 155
+2: 9 of 155
+
+October 12, 2024 (Push 1)
+
+Bench
+1: 4 of 50
+2: 8 of 40
+
+Incline DB Press
+1: 7 of 55
+2: 7 of 50
+3: 7 of 45
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 8 of 0
+
+Machine Lateral Raise
+1: 7 of 65
+2: 8ish of 60
+3: 9 of 45
+4: 8 of 40
+
+Tricep Cable Pushdown
+1: 11 of 35
+2: 8 of 35
+
+October 13, 2024 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 9 of 120
+2: 8 of 120
+3: 9 of 110
+
+Mid Row
+1: 8 of 185
+2: 9 of 165
+3: 8 of 165
+
+Barbell Curl
+1: 8 of 60
+2: 9 of 50
+3: 10 of 40
+
+October 15, 2024 (Legs 2)
+
+RDL
+1: 7 of 90
+2: 8 of 85
+3: 7 of 80
+
+Leg Press
+1: 11 of 180
+2: 8 of 180
+3: 7 of 155
+
+Hammy Curl
+1: 8 of 130
+2: 8 of 115
+
+October 17, 2024 (Pull 1)
+
+Cable Row
+1: 8 of 150
+2: 8 of 145
+3: 8 of 140
+
+Lat Pulldown
+1: 8 of 125
+2: 8 of 120
+3: 9 of 110
+
+Lat Pullover
+1: 7 of 65
+1: 8 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 8ish of 35
+2: 8 of 30
+
+Incline Curl
+1: 11 of 20
+2: 9 of 20
+
+October 18, 2024 (Push 2) (Clubhouse)
+
+Incline Smith
+1: 9 of 45
+2: 8 of 45
+3: 8 of 40
+
+Barbell Skullcrusher
+1: 8 of 50
+2: 8 of 50
+3: 9 of 40
+
+DB Lateral Raise
+1: 8 of 25
+2: 9 of 20
+3: 9 of 20
+4: 8 of 20
+
+Cable Fly
+1: 9 of 50
+2: 8 of 50
+
+October 19, 2024 (Legs 1)
+
+Hammy Curl
+1: 8 of 175
+2: 10 of 155
+3: 9 of 155
+
+Smith Squat
+1: 8 of 90
+2: 8 of 85
+3: 8 of 80
+
+Quad Blaster
+1: 10 of 155
+2: 9 of 155
+
+October 24, 2024 (Push 1)
+
+Bench
+1: 6 of 45
+2: 7 of 40
+
+Incline DB Press
+1: 6ish of 55
+2: 6 of 50
+3: 7 of 45
+
+Dips
+1: 9 of 0
+2: 7 of 0
+
+October 27, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 4 of 80
+2: 7 of 65
+3: 9 of 50
+
+Mid Row
+1: 9 of 185
+2: 7 of 185
+3: 10 of 165
+
+Barbell Curl
+1: 9 of 60
+2: 9 of 50
+3: 8 of 50
+
+October 29, 2024 (Legs 2)
+
+RDL
+1: 8 of 90
+2: 7 of 90
+3: 7 of 85
+
+Leg Press
+1: 7 of 205
+2: 8 of 180
+3: 8 of 135
+
+October 30, 2024 (Push 2)
+
+Incline Smith
+1: 7 of 50
+2: 7 of 45
+3: 8 of 40
+
+Barbell Skullcrusher
+1: 10 of 50
+2: 8 of 50
+3: 9 of 40
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+October 31, 2024 (Pull 1)
+
+Cable Row
+1: 9 of 150
+2: 9 of 145
+3: 9 of 140
+
+Lat Pulldown
+1: 9 of 125
+2: 9 of 120
+3: 8 of 120
+
+Lat Pullover
+1: 7 of 65
+2: 7 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 8 of 35
+
+Incline Curl
+1: 9 + 2 of 20
+
+November 5, 2024 (Legs 1)
+
+Hammy Curl
+1: 8 of 175
+2: 11 of 155
+3: 9 of 155
+
+Smith Squat
+1: 8 of 90
+2: 8 of 85
+3: 8 of 80
+
+Quad Blaster
+1: 10 of 155
+2: 9 of 155
+
+November 6, 2024 (Push 1)
+
+Bench
+1: 8 of 45
+2: 8 of 40
+
+Incline DB Press
+1: 6 of 55
+2: 7 of 50
+3: 7 of 45
+
+Dips
+1: 10 of 0
+2: 8 of 0
+3: 7 of 0
+
+Machine Lateral Raise
+1: 8 of 65
+2: 8 of 60
+3: 10 of 45
+4: 8 of 45
+
+Tricep Pushdown Machine
+1: 8 of 150
+2: 8 of 140
+
+November 9, 2024 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 10 of 120
+2: 8 of 120
+3: 9 of 110
+
+Mid Row
+1: 8 of 205
+2: 9 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 9 of 60
+2: 10 of 50
+3: 
+
+November 10, 2024 (Legs 2)
+
+RDL
+1: 7 of 95
+2: 7 of 90
+3: 7 of 85
+
+Leg Press
+1: 9 of 205
+2: 7 of 180
+3: 10 of 135
+
+Hammy Curl
+1: 4 of 130
+2: 7 of 95
+3: 7 of 85
+
+Quad Blaster
+1: 10 of 160
+2: 8 of 150
+3: 9 of 140
+
+November 12, 2024 (Push 2)
+
+Incline Smith
+1: 6 of 50
+2: 8 of 45
+3: 7 of 40
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 8 of 20
+
+Barbell Skullcrusher
+1: 7 of 60
+2: 8 of 50
+3: 8 of 40
+
+Cable Fly
+1: 10 of 50
+2: 9 of 50
+
+November 13, 2024 (Pull 1)
+
+Cable Row
+1: 8ish of 160
+2: 8 of 150
+3: 9 of 140
+
+Lat Pulldown
+1: 8ish of 130
+2: 7 of 125
+3: 8 of 120
+
+Lat Pullover
+1: 7 of 65
+2: 8 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 9ish of 35
+2: 8 of 35
+
+Incline Curl
+1: 10 of 20
+2: 8 of 20
+
+November 14, 2024 (Legs 1)
+
+Hammy Curl
+1: 9 of 175
+2: 9 of 175
+3: 8 of 175
+
+Smith Squat
+1: 9 of 90
+2: 9 of 85
+3: 8 of 80
+
+November 15, 2024 (Push 1) (Clubhouse)
+
+Smith Bench
+1: 8 of 50
+2: 9 of 45
+
+Incline DB Press
+1: 8 of 55
+2: 8 of 50
+3: 9 of 45
+
+Cable Lateral Raise (Clubhouse)
+1: 8 of 30
+2: 10 of 20
+3: 9 of 20
+4: 8 of 20
+
+Cable Rope Pushdown
+1: 8 of 80
+2: 8 of 70
+3: 8 of 60
+
+November 18, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 9 of 70
+2: 8 of 70
+3: 9 of 60
+
+Upper Row
+1: 9 of 150
+2: 9 of 140
+3: 9 of 130
+
+Machine Curl
+1: 9 of 70
+2: 8 of 65
+3: 9 of 60
+
+November 20, 2024 (Legs 2)
+
+RDL
+1: 8 of 95
+2: 7 of 90
+3: 7 of 85
+
+Leg Press
+1: 9 of 180
+2: 6 of 180
+3: 8 of 135
+
+November 21, 2024 (Push 2)
+
+Incline Smith:
+1: 7 of 50
+2: 8 of 45
+3: 8 of 40
+
+Barbell Skullcrusher
+1: 7 of 60
+2: 9 of 50
+3: 8 of 50
+
+DB Lateral Raise
+1: 8 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Cable Fly
+1: 8 of 60
+2: 9 of 50

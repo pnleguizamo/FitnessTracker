@@ -1,0 +1,2873 @@
+[
+ {
+  "date": "September 1, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Upper Row Machine",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Machine Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "115"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 3, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "115"
+     },
+     {
+      "reps": "7",
+      "weight": "105"
+     },
+     {
+      "reps": "7",
+      "weight": "90"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "5",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 4, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "40"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 5, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "145"
+     },
+     {
+      "reps": "8",
+      "weight": "145"
+     },
+     {
+      "reps": "7",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "7",
+      "weight": "120"
+     },
+     {
+      "reps": "9",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "DB Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "22.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 8, 2024 (Push 1) (Clubhouse)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Smith Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "55"
+     },
+     {
+      "reps": "6",
+      "weight": "50"
+     },
+     {
+      "reps": "6",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Single Cable Tricep Pull",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "30"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 10, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Upper Row Machine",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Machine Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "115"
+     },
+     {
+      "reps": "7",
+      "weight": "110"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 12, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     },
+     {
+      "reps": "6",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "180"
+     },
+     {
+      "reps": "10",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "105"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 13, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "12",
+      "weight": "145"
+     },
+     {
+      "reps": "10",
+      "weight": "165"
+     },
+     {
+      "reps": "10",
+      "weight": "165"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "110"
+     },
+     {
+      "reps": "9",
+      "weight": "95"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover (Clubhouse)",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "30"
+     },
+     {
+      "reps": "8",
+      "weight": "30"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 15, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 17, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "115"
+     },
+     {
+      "reps": "7",
+      "weight": "105"
+     },
+     {
+      "reps": "7",
+      "weight": "90"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "85"
+     },
+     {
+      "reps": "6",
+      "weight": "85"
+     },
+     {
+      "reps": "6",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 19, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "4",
+      "weight": "50"
+     },
+     {
+      "reps": "5",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "55"
+     },
+     {
+      "reps": "6",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "6",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Pushdown Machine",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 22, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "65"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "125"
+     },
+     {
+      "reps": "7",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Smith Row",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "45"
+     },
+     {
+      "reps": "9",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "40"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 25, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     },
+     {
+      "reps": "6",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "180"
+     },
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 26, 2024 (Push 2) (Clubhouse)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 28, 2024 (Pull 1) (Clubhouse)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Smith Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "110"
+     },
+     {
+      "reps": "7",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "9",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "30"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "September 30, 2024 (Legs 1) (Clubhouse)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     },
+     {
+      "reps": "8",
+      "weight": "155"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "135"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 1, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "4",
+      "weight": "50"
+     },
+     {
+      "reps": "6",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "55"
+     },
+     {
+      "reps": "6",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Pushdown Machine",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "150"
+     },
+     {
+      "reps": "7",
+      "weight": "140"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 3, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Upper Row Machine",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Machine Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "9",
+      "weight": "55"
+     }
+    ]
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "115"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 5, 2024 (Push 2) (Clubhouse)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": []
+   }
+  ]
+ },
+ {
+  "date": "October 6, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "180"
+     },
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "6",
+      "weight": "160"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 9, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "145"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "30"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 11, 2024 (Legs 1) (Clubhouse)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "90"
+     },
+     {
+      "reps": "6",
+      "weight": "85"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 12, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "4",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Cable Pushdown",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 13, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "9",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "185"
+     },
+     {
+      "reps": "9",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "165"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "10",
+      "weight": "40"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 15, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "180"
+     },
+     {
+      "reps": "8",
+      "weight": "180"
+     },
+     {
+      "reps": "7",
+      "weight": "155"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "115"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 17, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "145"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "9",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "30"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 18, 2024 (Push 2) (Clubhouse)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 19, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "175"
+     },
+     {
+      "reps": "10",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 24, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "55"
+     },
+     {
+      "reps": "6",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 27, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "4",
+      "weight": "80"
+     },
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "7",
+      "weight": "185"
+     },
+     {
+      "reps": "10",
+      "weight": "165"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 29, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "180"
+     },
+     {
+      "reps": "8",
+      "weight": "135"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 30, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "October 31, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "145"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": []
+   }
+  ]
+ },
+ {
+  "date": "November 5, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "175"
+     },
+     {
+      "reps": "11",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "155"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 6, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "10",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Pushdown Machine",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 9, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "9",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "60"
+     },
+     {
+      "reps": "10",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 10, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "95"
+     },
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "7",
+      "weight": "180"
+     },
+     {
+      "reps": "10",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "4",
+      "weight": "130"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 12, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 13, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "7",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 14, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "175"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "90"
+     },
+     {
+      "reps": "9",
+      "weight": "85"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 15, 2024 (Push 1) (Clubhouse)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Smith Bench",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise (Clubhouse)",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "30"
+     },
+     {
+      "reps": "10",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Cable Rope Pushdown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "80"
+     },
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 18, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Upper Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     },
+     {
+      "reps": "9",
+      "weight": "130"
+     }
+    ]
+   },
+   {
+    "name": "Machine Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 20, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "180"
+     },
+     {
+      "reps": "6",
+      "weight": "180"
+     },
+     {
+      "reps": "8",
+      "weight": "135"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 21, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith:",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ }
+]

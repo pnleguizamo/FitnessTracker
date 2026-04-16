@@ -1,0 +1,6051 @@
+[
+ {
+  "date": "November 22, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "9",
+      "weight": "57.5"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "35"
+     },
+     {
+      "reps": "7",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 25, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "130"
+     },
+     {
+      "reps": "7",
+      "weight": "115"
+     },
+     {
+      "reps": "7",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 26, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "10"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "42.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 27, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "75"
+     },
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "T Bar Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Machine Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "115"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "80"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     },
+     {
+      "reps": "8",
+      "weight": "70"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 29, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "180"
+     },
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "9",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "10",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "November 30, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith Press",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Pec Deck",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "80"
+     },
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "70"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 2, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "145"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "9",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "22.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 5, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "115"
+     },
+     {
+      "reps": "9",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "9",
+      "weight": "85"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "12",
+      "weight": "160"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 6, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "0"
+     },
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Pushdown Machine",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "7",
+      "weight": "140"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 8, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "130"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     },
+     {
+      "reps": "9",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "165"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "60"
+     },
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 9, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "95"
+     },
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "12",
+      "weight": "175"
+     },
+     {
+      "reps": "10",
+      "weight": "175"
+     },
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "9",
+      "weight": "160"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": []
+   }
+  ]
+ },
+ {
+  "date": "December 12, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 14, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "205"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown (Clubhouse)",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "9",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "95"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 15, 2024 (Legs 1) (Clubhouse)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "195"
+     },
+     {
+      "reps": "10",
+      "weight": "175"
+     },
+     {
+      "reps": "9",
+      "weight": "175"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "155"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 16, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 17, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "75"
+     },
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     }
+    ]
+   },
+   {
+    "name": "Upper Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     }
+    ]
+   },
+   {
+    "name": "Machine Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 19, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "180"
+     },
+     {
+      "reps": "7",
+      "weight": "180"
+     },
+     {
+      "reps": "7",
+      "weight": "135"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 20, 2024 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Pec Deck",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "80"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     },
+     {
+      "reps": "8",
+      "weight": "70"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 22, 2024 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "165"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "145"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "130"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "40"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "25"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 23, 2024 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "115"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 28, 2024 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Incline DB Bench",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "15"
+     },
+     {
+      "reps": "8",
+      "weight": "12.5"
+     },
+     {
+      "reps": "9",
+      "weight": "10"
+     },
+     {
+      "reps": "8",
+      "weight": "10"
+     }
+    ]
+   },
+   {
+    "name": "Single Cable Tricep Pull",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "22.5"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "17.5"
+     },
+     {
+      "reps": "8",
+      "weight": "17.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 29, 2024 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "130"
+     },
+     {
+      "reps": "9",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "DB Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "30"
+     },
+     {
+      "reps": "8",
+      "weight": "30"
+     },
+     {
+      "reps": "9",
+      "weight": "25"
+     },
+     {
+      "reps": "8",
+      "weight": "25"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "December 30, 2024 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "180"
+     },
+     {
+      "reps": "8",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "7",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "160"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 1, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "15"
+     },
+     {
+      "reps": "9",
+      "weight": "12.5"
+     },
+     {
+      "reps": "8",
+      "weight": "12.5"
+     },
+     {
+      "reps": "10",
+      "weight": "10"
+     }
+    ]
+   },
+   {
+    "name": "Single Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "22.5"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "17.5"
+     },
+     {
+      "reps": "8",
+      "weight": "17.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 3, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Pull Up",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "10",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "35"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 4, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "90"
+     },
+     {
+      "reps": "9",
+      "weight": "85"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "160"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 6, 2025",
+  "split_day": "January 6, 2025",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "0"
+     },
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "15"
+     },
+     {
+      "reps": "9",
+      "weight": "10"
+     },
+     {
+      "reps": "7",
+      "weight": "10"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Rope Pushdown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "35"
+     },
+     {
+      "reps": "7",
+      "weight": "30"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 7, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "165"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "35"
+     },
+     {
+      "reps": "7",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 8, 2025 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "180"
+     },
+     {
+      "reps": "8",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "80"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 10, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Pec Deck",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "90"
+     },
+     {
+      "reps": "7",
+      "weight": "80"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 12, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "9",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "DB Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "30"
+     },
+     {
+      "reps": "7",
+      "weight": "30"
+     },
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "7",
+      "weight": "25"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 13, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "7",
+      "weight": "110"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "160"
+     },
+     {
+      "reps": "7",
+      "weight": "160"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 14, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "15"
+     },
+     {
+      "reps": "8",
+      "weight": "10"
+     },
+     {
+      "reps": "7",
+      "weight": "10"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "42.5"
+     },
+     {
+      "reps": "8",
+      "weight": "42.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 15, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 17, 2025 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "9",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "180"
+     },
+     {
+      "reps": "9",
+      "weight": "135"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 20, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 21, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "60"
+     },
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 23, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "195"
+     },
+     {
+      "reps": "8",
+      "weight": "175"
+     },
+     {
+      "reps": "9",
+      "weight": "155"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "95"
+     },
+     {
+      "reps": "9",
+      "weight": "95"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "155"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 24, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "9",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Pushdown Machine",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "7",
+      "weight": "150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 26, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "9",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "35"
+     },
+     {
+      "reps": "7",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "7",
+      "weight": "22.5"
+     },
+     {
+      "reps": "9",
+      "weight": "17.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 27, 2025 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "205"
+     },
+     {
+      "reps": "7",
+      "weight": "180"
+     },
+     {
+      "reps": "7",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "7",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 29, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 30, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "January 31, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "100"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "175"
+     },
+     {
+      "reps": "7",
+      "weight": "155"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 1, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 2, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "105"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "67.5"
+     },
+     {
+      "reps": "8",
+      "weight": "62.5"
+     },
+     {
+      "reps": "8",
+      "weight": "57.5"
+     }
+    ]
+   },
+   {
+    "name": "Machine Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "80"
+     },
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "55"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 4, 2025 (Legs 2)",
+  "split_day": "Legs 2",
+  "exercises": [
+   {
+    "name": "RDL",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     },
+     {
+      "reps": "8",
+      "weight": "85"
+     }
+    ]
+   },
+   {
+    "name": "Leg Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "205"
+     },
+     {
+      "reps": "7",
+      "weight": "180"
+     },
+     {
+      "reps": "8",
+      "weight": "135"
+     }
+    ]
+   },
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 5, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 6, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "60"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 10, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "7",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "100"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     },
+     {
+      "reps": "7",
+      "weight": "85"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 11, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Pushdown Machine",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "160"
+     },
+     {
+      "reps": "7",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 13, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     },
+     {
+      "reps": "9",
+      "weight": "105"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "40"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 15, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "100"
+     },
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "155"
+     },
+     {
+      "reps": "8",
+      "weight": "135"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 16, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Cable Fly",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 18, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "140"
+     },
+     {
+      "reps": "9",
+      "weight": "130"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "225"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 19, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "100"
+     },
+     {
+      "reps": "8",
+      "weight": "95"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "155"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 20, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 22, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "145"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 23, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     },
+     {
+      "reps": "8",
+      "weight": "90"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 25, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "7",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "42.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 26, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "130"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "February 27, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "215"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "105"
+     },
+     {
+      "reps": "9",
+      "weight": "100"
+     },
+     {
+      "reps": "9",
+      "weight": "95"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "175"
+     },
+     {
+      "reps": "9",
+      "weight": "175"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 2, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 4, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "145"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "27.5"
+     },
+     {
+      "reps": "8",
+      "weight": "22.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 5, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "110"
+     },
+     {
+      "reps": "9",
+      "weight": "105"
+     },
+     {
+      "reps": "9",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "195"
+     },
+     {
+      "reps": "9",
+      "weight": "175"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 6, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "7",
+      "weight": "65"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Tricep Pushdown Machine",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "155"
+     },
+     {
+      "reps": "7",
+      "weight": "145"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 9, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "225"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 11, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "7",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "8",
+      "weight": "175"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 12, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Smith Incline",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "6",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 13, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "165"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "145"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "62.5"
+     },
+     {
+      "reps": "8",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "52.5"
+     }
+    ]
+   },
+   {
+    "name": "Cable Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "52.5"
+     },
+     {
+      "reps": "8",
+      "weight": "47.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 15, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "140"
+     },
+     {
+      "reps": "7",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "110"
+     },
+     {
+      "reps": "6",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "95"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "12",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "145"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 17, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "15"
+     },
+     {
+      "reps": "9",
+      "weight": "10"
+     },
+     {
+      "reps": "9",
+      "weight": "10"
+     },
+     {
+      "reps": "7",
+      "weight": "10"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 19, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Barbell Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     },
+     {
+      "reps": "9",
+      "weight": "45"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "130"
+     },
+     {
+      "reps": "7",
+      "weight": "120"
+     },
+     {
+      "reps": "7",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "62.5"
+     },
+     {
+      "reps": "8",
+      "weight": "57.5"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "40"
+     },
+     {
+      "reps": "9",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 20, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Hammy Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "140"
+     },
+     {
+      "reps": "7",
+      "weight": "125"
+     },
+     {
+      "reps": "7",
+      "weight": "110"
+     }
+    ]
+   },
+   {
+    "name": "Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "105"
+     },
+     {
+      "reps": "7",
+      "weight": "100"
+     },
+     {
+      "reps": "7",
+      "weight": "95"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 22, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 23, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "7",
+      "weight": "130"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 26, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "7",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 27, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "55"
+     },
+     {
+      "reps": "7",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "12.5"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "47.5"
+     },
+     {
+      "reps": "9",
+      "weight": "42.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "March 31, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "165"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "8",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "40"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 1, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "7",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "195"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 2, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "10",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 7, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "130"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "205"
+     },
+     {
+      "reps": "7",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 8, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 10, 2025 (Push 2)",
+  "split_day": "Push 2",
+  "exercises": [
+   {
+    "name": "Incline Smith",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "DB Lateral Raise",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "9",
+      "weight": "20"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     },
+     {
+      "reps": "7",
+      "weight": "20"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Skullcrusher",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 12, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     },
+     {
+      "reps": "9",
+      "weight": "130"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "205"
+     },
+     {
+      "reps": "9",
+      "weight": "185"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 14, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "215"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   },
+   {
+    "name": "Quad Blaster",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "195"
+     },
+     {
+      "reps": "9",
+      "weight": "175"
+     },
+     {
+      "reps": "8",
+      "weight": "175"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 15, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "0"
+     },
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 17, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "165"
+     },
+     {
+      "reps": "10",
+      "weight": "150"
+     },
+     {
+      "reps": "9",
+      "weight": "150"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "9",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Hammer Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "40"
+     },
+     {
+      "reps": "8",
+      "weight": "35"
+     }
+    ]
+   },
+   {
+    "name": "Incline Curl",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "25"
+     },
+     {
+      "reps": "8",
+      "weight": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 20, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "215"
+     },
+     {
+      "reps": "8",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "195"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 22, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "55"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "65"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 23, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "160"
+     },
+     {
+      "reps": "9",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "225"
+     },
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "205"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     },
+     {
+      "reps": "10",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 26, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "12",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "110"
+     },
+     {
+      "reps": "9",
+      "weight": "105"
+     },
+     {
+      "reps": "9",
+      "weight": "100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 29, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Machine Lateral Raise",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "8",
+      "weight": "65"
+     },
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "April 30, 2025 (Pull 1)",
+  "split_day": "Pull 1",
+  "exercises": [
+   {
+    "name": "Cable Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "170"
+     },
+     {
+      "reps": "8",
+      "weight": "160"
+     },
+     {
+      "reps": "8",
+      "weight": "160"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "140"
+     },
+     {
+      "reps": "8",
+      "weight": "125"
+     },
+     {
+      "reps": "9",
+      "weight": "120"
+     }
+    ]
+   },
+   {
+    "name": "Lat Pullover",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "62.5"
+     },
+     {
+      "reps": "7",
+      "weight": "57.5"
+     },
+     {
+      "reps": "8",
+      "weight": "52.5"
+     }
+    ]
+   },
+   {
+    "name": "Cable Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "52.5"
+     },
+     {
+      "reps": "8",
+      "weight": "47.5"
+     },
+     {
+      "reps": "8",
+      "weight": "42.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "May 4, 2025 (Legs 1)",
+  "split_day": "Legs 1",
+  "exercises": [
+   {
+    "name": "Weird Hammy Curl",
+    "sets": [
+     {
+      "reps": "11",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     },
+     {
+      "reps": "9",
+      "weight": "215"
+     }
+    ]
+   },
+   {
+    "name": "Smith Squat",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "110"
+     },
+     {
+      "reps": "8",
+      "weight": "105"
+     },
+     {
+      "reps": "8",
+      "weight": "100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "May 6, 2025 (Push 1)",
+  "split_day": "Push 1",
+  "exercises": [
+   {
+    "name": "Bench",
+    "sets": [
+     {
+      "reps": "7",
+      "weight": "60"
+     },
+     {
+      "reps": "7",
+      "weight": "55"
+     }
+    ]
+   },
+   {
+    "name": "Incline DB Press",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "60"
+     },
+     {
+      "reps": "8",
+      "weight": "55"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Dips",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "0"
+     },
+     {
+      "reps": "8",
+      "weight": "0"
+     },
+     {
+      "reps": "7",
+      "weight": "0"
+     }
+    ]
+   },
+   {
+    "name": "Cable Tricep Pushdown",
+    "sets": [
+     {
+      "reps": "10",
+      "weight": "50"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     },
+     {
+      "reps": "8",
+      "weight": "50"
+     }
+    ]
+   },
+   {
+    "name": "Cable Lateral Raise",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "15"
+     },
+     {
+      "reps": "9",
+      "weight": "10"
+     },
+     {
+      "reps": "8",
+      "weight": "10"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "May 7, 2025 (Pull 2)",
+  "split_day": "Pull 2",
+  "exercises": [
+   {
+    "name": "Single Cable Lat Pulldown",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "150"
+     },
+     {
+      "reps": "8",
+      "weight": "140"
+     }
+    ]
+   },
+   {
+    "name": "Mid Row",
+    "sets": [
+     {
+      "reps": "8",
+      "weight": "225"
+     },
+     {
+      "reps": "9",
+      "weight": "205"
+     },
+     {
+      "reps": "8",
+      "weight": "205"
+     }
+    ]
+   },
+   {
+    "name": "Barbell Curl",
+    "sets": [
+     {
+      "reps": "9",
+      "weight": "70"
+     },
+     {
+      "reps": "9",
+      "weight": "60"
+     },
+     {
+      "reps": "9",
+      "weight": "50"
+     }
+    ]
+   }
+  ]
+ }
+]

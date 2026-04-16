@@ -1,4 +1,15 @@
+# Legacy and duplicate source files
 onedrive.txt
 test.txt
 WorkoutLog.txt
 RN Bro Split.txt
+
+# Local tool state
+.codex
+.codex/
+
+# Editor temp files
+*.swp
+*.swo
+*~
+

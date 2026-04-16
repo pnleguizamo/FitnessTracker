@@ -1,0 +1,1825 @@
+November 22, 2024 (Pull 1)
+
+Cable Row
+1: 8 of 160
+2: 9 of 150
+3: 8 of 140
+
+Lat Pulldown
+1: 8 of 130
+2: 9 of 120
+3: 8 of 120
+
+Lat Pullover
+1: 8 of 65
+2: 9 of 57.5
+3: 7 of 57.5
+
+Hammer Curl
+1: 9 of 35
+2: 7 of 35
+
+Incline Curl
+1: 7 of 25
+2: 8 of 20
+
+November 25, 2024 (Legs 1)
+
+Hammy Curl
+1: 7 of 130
+2: 7 of 115
+3: 7 of 100
+
+Squat
+1: 8 of 90
+2: 8 of 85
+3: 8 of 80
+
+November 26, 2024 (Push 1)
+
+Bench
+1: 7 of 50
+2: 7ish of 45
+
+Incline DB Press
+1: 7 of 55
+2: 7 of 50
+3: 7 of 45
+
+Cable Lateral Raise
+1: 8 of 10
+
+Cable Tricep Pushdown
+1: 9 of 42.5
+
+November 27, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 8 of 75
+2: 8 of 70
+3: 9 of 60
+
+T Bar Row
+1: 8 of 70
+2: 8 of 65
+3: 8 of 60
+
+Machine Curl
+1: 9 of 115
+2: 8 of 100
+
+Reverse Pec Deck
+1: 8 of 80
+2: 7 of 80
+3: 8 of 70
+
+November 29, 2024 (Legs 2)
+
+RDL
+1: 8 of 95
+2: 8 of 90
+3: 8 of 85
+
+Leg Press
+1: 9 of 180
+2: 9 of 160
+3: 9 of 135
+
+Hammy Curl
+1: 7 of 120
+2: 8 of 95
+3: 9 of 80
+
+Quad Blaster
+1: 9 of 160
+2: 10 of 150
+3: 9 of 140
+
+November 30, 2024 (Push 2)
+
+Incline Smith Press
+1: 7 of 60
+2: 9 of 50
+3: 9 of 45
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Barbell Skullcrusher
+1: 8 of 60
+2: 10 of 50
+3: 8 of 50
+
+Pec Deck
+1: 8 of 80
+2: 9 of 70
+3: 8 of 70
+
+December 2, 2024 (Pull 1)
+
+Cable Row
+1: 9 of 160
+2: 9 of 150
+3: 9 of 145
+
+Lat Pulldown
+1: 8 of 130
+2: 9 of 125
+3: 9 of 120
+
+Lat Pullover
+1: 9 of 65
+2: 7 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 10 of 35
+2: 8 of 35
+
+Incline Curl
+1: 8 of 22.5
+
+December 5, 2024 (Legs 1)
+
+Hammy Curl
+1: 8 of 115
+2: 9 of 105
+3: 8 of 90
+
+Squat
+1: 8 of 90
+2: 9 of 85
+3: 8 of 80
+
+Quad Blaster
+1: 12 of 160
+
+December 6, 2024 (Push 1)
+
+Bench
+1: 7 of 50
+2: 7 of 45
+
+Incline DB Press
+1: 8 of 55
+2: 8 of 50
+3: 9 of 45 
+
+Dips
+1: 10 of 0
+2: 9 of 0
+3: 8 of 0
+
+Machine Lateral Raise
+1: 8 of 65
+2: 8 of 60
+3: 8 of 50
+4: 8 of 45
+
+Tricep Pushdown Machine
+1: 6 of 160
+2: 8 of 140
+3: 7 of 140
+
+December 8, 2024 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 9 of 130
+2: 9 of 120
+3: 9 of 110
+
+Mid Row
+1: 6 of 205
+2: 8 of 165
+3: 8 of 165
+
+Barbell Curl
+1: 10 of 60
+2: 10 of 50
+3: 8 of 50
+
+December 9, 2024 (Legs 2)
+
+RDL
+1: 7 of 95
+2: 7 of 90
+3: 8 of 85
+
+Quad Blaster
+1: 12 of 175
+2: 10 of 175
+3: 9 of 175
+4: 9 of 160
+
+Hammy Curl
+1: 
+2: 
+3: 
+
+December 12, 2024 (Push 2)
+
+Incline Smith
+1: 7 of 50
+2: 8 of 45
+3: 8 of 40
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 
+
+Barbell Skullcrusher
+1: 7 of 60
+2: 8 of 50
+3: 
+
+December 14, 2024 (Pull 1)
+
+Mid Row
+1: 9 of 205
+2: 9 of 205
+3: 9 of 205
+
+Lat Pulldown (Clubhouse)
+1: 8 of 110
+2: 9 of 95
+3: 8 of 95
+
+Hammer Curl
+1: 10 of 35
+2: 8 of 35
+
+Incline Curl
+1: 10 of 20
+2: 8 of 20
+
+December 15, 2024 (Legs 1) (Clubhouse)
+
+Weird Hammy Curl
+1: 8 of 195
+2: 10 of 175
+3: 9 of 175
+
+Smith Squat
+1: 10 of 90
+2: 8 of 90
+3: 8 of 85
+
+Quad Blaster
+1: 9 of 175
+2: 8 of 155
+
+December 16, 2024 (Push 1)
+
+Bench
+1: 6 of 50
+2: 7 of 45
+
+Incline DB Press
+1: 8 of 55
+2: 8 of 50
+3: 8 of 45
+
+Dips
+1: 9 of 0
+2: 9 of 0
+3: 8 of 0
+
+Machine Lateral Raise
+1: 8 of 65
+2: 8 of 60
+3: 8 of 55
+4: 8 of 50
+
+December 17, 2024 (Pull 2)
+
+Single Lat Pulldown
+1: 8 of 75
+2: 8 of 70
+3: 9 of 60
+
+Upper Row
+1: 8 of 150
+2: 8 of 140
+3: 8 of 130
+
+Machine Curl
+1: 10 of 70
+2: 8 of 65
+3: 8 of 60
+
+December 19, 2024 (Legs 2)
+
+RDL
+1: 8 of 95
+2: 8 of 90
+3: 8 of 85
+
+Leg Press
+1: 10 of 180
+2: 7 of 180
+3: 7 of 135
+
+December 20, 2024 (Push 2)
+
+Incline Smith
+1: 7 of 60
+2: 8 of 55
+3: 7 of 50
+
+Barbell Skullcrusher
+1: 8 of 60
+2: 9 of 50
+3: 7 of 50
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Pec Deck
+1: 9 of 80
+2: 7 of 80
+3: 8 of 70
+
+December 22, 2024 (Pull 1)
+
+Cable Row
+1: 8 of 165
+2: 9 of 150
+3: 9 of 145
+
+Lat Pulldown
+1: 7 of 130
+2: 9 of 120
+3: 8 of 110
+
+Lat Pullover
+1: 8 of 65
+2: 7 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 6 of 40
+2: 8 of 35
+
+Incline Curl
+1: 6 of 25
+2: 8 of 20
+
+December 23, 2024 (Legs 1)
+
+Hammy Curl
+1: 8 of 125
+2: 8 of 115
+3: 8 of 100
+
+Squat
+1: 9 of 90
+2: 7 of 85
+3: 8 of 80
+
+December 28, 2024 (Push 1)
+
+Incline DB Bench
+1: 9 of 50
+2: 9 of 50
+3: 8 of 50
+4: 8 of 50
+
+Cable Lateral Raise
+1: 8 of 15
+2: 8 of 12.5
+3: 9 of 10
+4: 8 of 10
+
+Single Cable Tricep Pull
+1: 8 of 22.5
+2: 8 of 20
+3: 8 of 17.5
+4: 8 of 17.5
+
+December 29, 2024 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 9 of 130
+2: 9 of 130
+3: 8 of 130
+4: 9 of 120
+
+DB Curl
+1: 9 of 30
+2: 8 of 30
+3: 9 of 25
+4: 8 of 25
+
+December 30, 2024 (Legs 2)
+
+RDL
+1: 8 of 95
+2: 8 of 90
+3: 8 of 85
+
+Leg Press
+1: 8 of 205
+2: 8 of 180
+3: 8 of 135
+
+Hammy Curl
+1: 8 of 120
+2: 7 of 105
+3: 8 of 90
+
+Quad Blaster
+1: 10 of 160
+2: 9 of 160
+3: 8 of 160
+
+January 1, 2025 (Push 2)
+
+Incline DB Press
+1: 11 of 50
+2: 9 of 50
+3: 8 of 50
+4: 8 of 50
+
+Cable Lateral Raise
+1: 8 of 15
+2: 9 of 12.5
+3: 8 of 12.5
+4: 10 of 10
+
+Single Cable Tricep Pushdown
+1: 9 of 22.5
+2: 9 of 20
+3: 9 of 17.5
+4: 8 of 17.5
+
+January 3, 2025 (Pull 1)
+
+Pull Up
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Single Cable Lat Pulldown
+1: 8 of 60
+2: 10 of 50
+3: 10 of 50
+
+Hammer Curl
+1: 9 of 35
+2: 8 of 35
+
+Incline Curl
+1: 11 of 20
+2: 9 of 20
+
+January 4, 2025 (Legs 1)
+
+Hammy Curl
+1: 7 of 125
+2: 8 of 110
+3: 7 of 95
+
+Squat
+1: 9 of 90
+2: 9 of 85
+3: 8 of 80
+
+Quad Blaster
+1: 9 of 160
+
+January 6, 2025
+
+Bench
+1: 8 of 50
+2: 7 of 45
+
+Incline DB Press
+1: 9 of 55
+2: 8 of 50
+3: 9 of 45
+
+Dips
+1: 10 of 0
+2: 9 of 0
+3: 8 of 0
+
+Cable Lateral Raise
+1: 8 of 15
+2: 9 of 10
+3: 7 of 10
+
+Tricep Rope Pushdown
+1: 8 of 35
+2: 7 of 30
+
+January 7, 2025 (Pull 1)
+
+Cable Row
+1: 7 of 165
+2: 9 of 150
+3: 9 of 140
+
+Lat Pulldown
+1: 9 of 125
+2: 9 of 120
+3: 8 of 110
+
+Lat Pullover
+1: 7 of 65
+2: 8 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 9 of 35
+2: 7 of 35
+
+Incline Curl
+1: 8 of 25
+2: 8 of 20
+
+January 8, 2025 (Legs 2)
+
+RDL
+1: 8 of 95
+2: 8 of 90
+3: 8 of 85
+
+Leg Press
+1: 9 of 205
+2: 8 of 180
+3: 8 of 135
+
+Hammy Curl
+1: 8 of 105
+2: 8 of 90
+3: 8 of 80
+
+January 10, 2025 (Push 2)
+
+Incline Smith
+1: 8 of 60
+2: 8 of 55
+3: 7 of 50
+
+Barbell Skullcrusher
+1: 8 of 60
+2: 9 of 50
+3: 7 of 50
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Pec Deck
+1: 7 of 90
+2: 7 of 80
+3: 
+
+January 12, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 140
+2: 9 of 130
+3: 8 of 130
+4: 8 of 120
+
+DB Curl
+1: 7 of 30
+2: 7 of 30
+3: 8 of 25
+4: 7 of 25
+
+January 13, 2025 (Legs 1)
+
+Hammy Curl
+1: 8ish of 125
+2: 7 of 110
+3: 7 of 95
+
+Squat
+1: 8 of 95
+2: 8 of 90
+3: 8 of 85
+
+Quad Blaster
+1: 11 of 160
+2: 7 of 160
+
+January 14, 2025 (Push 1)
+
+Bench
+1: 7 of 50
+2: 7 of 45
+
+Incline DB Press
+1: 8 of 55
+2: 7 of 50
+3: 7 of 45
+
+Dips
+1: 9 of 0
+
+Cable Lateral Raise
+1: 7 of 15
+2: 8 of 10
+3: 7 of 10
+
+Cable Tricep Pushdown
+1: 11 of 42.5
+2: 8 of 42.5
+3: 
+
+January 15, 2025 (Pull 1)
+
+Cable Row
+1: 7 of 165
+2: 8 of 150
+3: 8 of 140
+
+Lat Pulldown
+1: 8 of 125
+2: 8 of 120
+3: 8 of 110
+
+January 17, 2025 (Legs 2)
+
+RDL
+1: 9 of 95
+2: 8 of 90
+3: 9 of 85
+
+Leg Press
+1: 9 of 205
+2: 8 of 180
+3: 9 of 135
+
+January 20, 2025 (Push 2)
+
+Incline Smith
+1: 9 of 50
+2: 7 of 50
+3: 7 of 45
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 8 of 20
+
+Barbell Skullcrusher
+1: 8 of 60
+2: 8 of 50
+3: 7 of 50
+
+Cable Fly
+1: 8 of 60
+2: 8 of 60
+
+January 21, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 140
+2: 8 of 130
+3: 8 of 120
+
+Mid Row
+1: 9 of 185
+2: 9 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 10 of 60
+2: 7 of 60
+3: 9 of 50
+
+January 23, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 7 of 195
+2: 8 of 175
+3: 9 of 155
+
+Smith Squat
+1: 9 of 95
+2: 9 of 95
+3: 7 of 95
+
+Quad Blaster
+1: 9 of 175
+2: 8 of 155
+
+January 24, 2025 (Push 1)
+
+Bench
+1: 7 of 50
+2: 7 of 45
+
+Incline DB Press
+1: 8 of 55
+2: 8 of 50
+3: 9 of 45
+
+Dips
+1: 9 of 0
+2: 9 of 0
+
+Machine Lateral Raise
+1: 9 of 65
+2: 8 of 65
+3: 8 of 55
+4: 8 of 55
+
+Tricep Pushdown Machine
+1: 9 of 150
+2: 7 of 150
+
+January 26, 2025 (Pull 1)
+
+Cable Row
+1: 7 of 165
+2: 8 of 150
+3: 9 of 140
+
+Lat Pulldown
+1: 9 of 125
+2: 8 of 120 
+3: 9 of 110
+
+Lat Pullover
+1: 8 of 65
+2: 7 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 9 of 35
+2: 7 of 35
+
+Incline Curl
+1: 7 of 25
+2: 7 of 22.5
+3: 9 of 17.5
+
+January 27, 2025 (Legs 2)
+
+RDL
+1: 8 of 95
+2: 8 of 90
+3: 8 of 85
+
+Leg Press
+1: 8 of 205
+2: 7 of 180
+3: 7 of 135
+
+Hammy Curl
+1: 8 of 120
+2: 7 of 100
+
+Quad Blaster
+1: 9 of 150
+
+January 29, 2025 (Push 2)
+
+Incline Smith
+1: 8 of 55
+2: 8 of 50
+3: 8 of 45
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 9 of 20
+4: 
+
+Barbell Skullcrusher
+1: 7 of 60
+2: 8 of 50
+3: 7 of 50
+
+January 30, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 140
+2: 8 of 130
+3: 8 of 120
+
+Mid Row
+1: 9 of 205
+2: 9 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 7 of 70
+2: 7 of 60
+3: 9 of 50
+
+January 31, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 9 of 195
+2: 9 of 195
+3: 8 of 195
+
+Smith Squat
+1: 8 of 100
+2: 7 of 95
+3: 8 of 90
+
+Quad Blaster
+1: 9 of 175
+2: 8 of 175
+3: 7 of 155
+
+February 1, 2025 (Push 1)
+
+Bench
+1: 8 of 50
+2: 7 of 45
+
+Incline DB Press
+1: 7 of 55
+2: 8 of 50
+3: 8 of 45
+
+Dips
+1: 8 of 0
+2: 8 of 0
+3: 7 of 0
+
+Machine Lateral Raise
+1: 9 of 65
+2: 8 of 65
+3: 8 of 55
+4: 8 of 45
+
+Cable Tricep Pushdown
+1: 8 of 50
+
+February 2, 2025 (Pull 1)
+
+Cable Row
+1: 8 of 165
+2: 8 of 150
+3: 9 of 140
+
+Lat Pulldown
+1: 9 of 125
+2: 8 of 125
+3: 9 of 105
+
+Lat Pullover
+1: 8 of 67.5
+2: 8 of 62.5
+3: 8 of 57.5
+
+Machine Curl
+1: 7 of 80
+2: 7 of 70
+3: 7 of 65
+4: 7 of 55
+
+February 4, 2025 (Legs 2)
+
+RDL
+1: 9 of 95
+2: 8 of 90
+3: 8 of 85
+
+Leg Press
+1: 8 of 205
+2: 7 of 180
+3: 8 of 135
+
+Hammy Curl
+1: 8 of 120
+2: 
+
+Quad Blaster
+1: 9 of 150
+2: 9 of 140
+3: 8 of 130
+
+February 5, 2025 (Push 2)
+
+Incline Smith
+1: 6 of 55
+2: 8 of 45
+3: 7 of 45
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Barbell Skullcrusher
+1: 7 of 60
+2: 8 of 50
+3: 7 of 50
+
+February 6, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 140
+2: 8 of 130
+3: 8 of 120
+
+Mid Row
+1: 9 of 205
+2: 9 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 7 of 70
+2: 7 of 60
+3: 
+
+February 10, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 9 of 195
+2: 9 of 195
+3: 7 of 195
+
+Smith Squat
+1: 8 of 100
+2: 7 of 95
+3: 7 of 85
+
+February 11, 2025 (Push 1)
+
+Bench
+1: 9ish of 50
+2: 7 of 45
+
+Incline DB Press
+1: 8 of 55
+2: 9 of 50
+3: 8 of 45
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Machine Lateral Raise
+1: 7 of 70
+2: 7 of 65
+3: 8 of 55
+4: 8 of 45
+
+Tricep Pushdown Machine
+1: 6 of 160
+2: 7 of 150
+3: 8 of 140
+
+February 13, 2025 (Pull 1)
+
+Cable Row
+1: 7 of 165
+2: 8 of 150
+3: 8 of 140
+
+Lat Pulldown
+1: 8 of 125
+2: 8 of 120
+3: 9 of 105
+
+Lat Pullover
+1: 8 of 65
+2: 8 of 57.5
+3: 8 of 50
+
+Hammer Curl
+1: 8 of 40
+
+Incline Curl
+1: 8 of 25
+2: 
+
+February 15, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 9 of 215
+2: 9 of 195
+3: 8 of 195
+
+Smith Squat
+1: 8 of 100
+2: 8 of 95
+3: 8 of 90
+
+Quad Blaster
+1: 8 of 175
+2: 8 of 155
+3: 8 of 135
+
+February 16, 2025 (Push 2)
+
+Incline Smith
+1: 7 of 55
+2: 8 of 50
+3: 8 of 45
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 9 of 20
+4: 8 of 20
+
+Barbell Skullcrusher
+1: 7 of 70
+2: 7 of 60
+3: 8 of 50
+
+Cable Fly
+1: 10 of 60
+2: 9 of 60
+
+February 18, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 9 of 140
+2: 9 of 130
+3: 9 of 120
+
+Mid Row
+1: 6 of 225
+2: 8 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 8 of 70
+2: 8 of 60
+3: 9 of 50
+
+February 19, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 9 of 215
+2: 9 of 195
+3: 8 of 195
+
+Smith Squat
+1: 9 of 100
+2: 8 of 95
+3: 8 of 90
+
+Quad Blaster
+1: 9 of 175
+2: 8 of 175
+3: 8 of 155
+
+February 20, 2025 (Push 2)
+
+Incline Smith
+1: 8 of 55
+2: 8 of 50
+3: 8 of 45
+
+Barbell Skullcrusher
+1: 6 of 70
+2: 8 of 60
+3: 8 of 50
+
+DB Lateral Raise
+1: 8 of 25
+2: 9 of 20
+3: 8 of 20
+4: 8 of 20
+
+February 22, 2025 (Pull 1)
+
+Cable Row
+1: 8 of 165
+2: 8 of 150
+3: 8 of 145
+
+Lat Pulldown
+1: 9 of 125
+2: 8 of 125
+3: 8 of 110
+
+February 23, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 9 of 215
+2: 9 of 195
+3: 8 of 195
+
+Smith Squat
+1: 7 of 105
+2: 8 of 100
+3: 8 of 90
+
+February 25, 2025 (Push 1)
+
+Bench
+1: 8 of 50
+2: 7 of 45
+
+Incline DB Press
+1: 9 of 55
+2: 9 of 50
+3: 9 of 45
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Machine Lateral Raise
+1: 9 of 65
+2: 7 of 65
+3: 8 of 55
+4: 8 of 45
+
+Cable Tricep Pushdown
+1: 9 of 50
+2: 8 of 50
+3: 8 of 42.5
+
+February 26, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 150
+2: 9 of 130
+3: 8 of 130
+
+Mid Row
+1: 9 of 205
+2: 9 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 7 of 70
+2: 8 of 60
+3: 9 of 50
+
+February 27, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 9 of 215
+2: 9 of 215
+3: 8 of 215
+
+Smith Squat
+1: 9 of 105
+2: 9 of 100
+3: 9 of 95
+
+Quad Blaster
+1: 10 of 175
+2: 9 of 175
+
+March 2, 2025 (Push 2)
+
+Incline Smith
+1: 8 of 55
+2: 9 of 50
+3: 8 of 50
+
+DB Lateral Raise
+1: 8 of 25
+2: 9 of 20
+3: 8 of 20
+4: 8 of 20
+
+Barbell Skullcrusher
+1: 7 of 70
+2: 8 of 60
+3: 9 of 50
+
+March 4, 2025 (Pull 1)
+
+Cable Row
+1: 8 of 165
+2: 8 of 150
+3: 9 of 145
+
+Lat Pulldown
+1: 10 of 125
+2: 8 of 125
+3: 8 of 120
+
+Lat Pullover
+1: 8 of 60
+2: 8 of 50
+3: 8 of 50
+
+Incline Curl
+1: 9 of 27.5
+2: 8 of 22.5
+
+March 5, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 10 of 215
+2: 8 of 215
+3: 8 of 195
+
+Smith Squat
+1: 7 of 110
+2: 9 of 105
+3: 9 of 100
+
+Quad Blaster
+1: 8 of 195
+2: 9 of 175
+
+March 6, 2025 (Push 1)
+
+Bench
+1: 9 of 50
+2: 8 of 45
+
+Incline DB Press
+1: 7 of 60
+2: 9 of 50
+3: 9 of 45
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Machine Lateral Raise
+1: 8 of 70
+2: 7 of 65
+3: 8 of 55
+4: 9 of 50
+
+Tricep Pushdown Machine
+1: 9 of 160
+2: 8 of 155
+3: 7 of 145
+
+March 9, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 150
+2: 8 of 140
+3: 8 of 130
+
+Mid Row
+1: 7 of 225
+2: 9 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 8 of 70
+2: 8 of 60
+3: 9 of 50
+
+
+March 11, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 10 of 215
+2: 8 of 215
+3: 8 of 195
+
+Smith Squat
+1: 8 of 110
+2: 8 of 105
+3: 7 of 100
+
+Quad Blaster
+1: 9 of 195
+2: 8 of 175
+
+March 12, 2025 (Push 2)
+
+Smith Incline
+1: 9ish of 55
+2: 8 of 50
+3: 9 of 45
+
+DB Lateral Raise
+1: 8 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Barbell Skullcrusher
+1: 6 of 70
+2: 8 of 60
+3: 7 of 50
+
+March 13, 2025 (Pull 1)
+
+Cable Row
+1: 9 of 165
+2: 9 of 150
+3: 9 of 145
+
+Lat Pulldown
+1: 7 of 140
+2: 8 of 125
+3: 8 of 120
+
+Lat Pullover
+1: 8 of 62.5
+2: 8 of 57.5
+3: 8 of 52.5
+
+Cable Curl
+1: 8 of 52.5
+2: 8 of 47.5
+
+March 15, 2025 (Legs 1)
+
+Hammy Curl
+1: 7 of 140
+2: 7 of 125
+3: 8 of 110
+
+Squat
+1: 7 of 110
+2: 6 of 105
+3: 8 of 95
+
+Quad Blaster
+1: 12 of 160
+2: 9 of 160
+3: 8 of 145
+
+March 17, 2025 (Push 1)
+
+Bench
+1: 7 of 55
+2: 8 of 50
+
+Incline DB Press
+1: 8 of 60
+2: 9 of 55
+3: 9 of 50
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Cable Lateral Raise
+1: 8 of 15
+2: 9 of 10
+3: 9 of 10
+4: 7 of 10
+
+March 19, 2025 (Pull 1)
+
+Barbell Row
+1: 8 of 55
+2: 9 of 45
+3: 9 of 45
+
+Lat Pulldown
+1: 7 of 130
+2: 7 of 120
+3: 7 of 110
+
+Lat Pullover
+1: 8 of 62.5
+2: 8 of 57.5
+3: 7 of 57.5
+
+Hammer Curl
+1: 8 of 40
+2: 9 of 35
+
+Incline Curl
+1: 8 of 25
+2: 9 of 20
+
+March 20, 2025 (Legs 1)
+
+Hammy Curl
+1: 7 of 140
+2: 7 of 125
+3: 7 of 110
+
+Squat
+1: 7 of 105
+2: 7 of 100
+3: 7 of 95
+
+March 22, 2025 (Push 1)
+
+Bench
+1: 8 of 55
+2: 8 of 50
+
+Incline DB Press
+1: 8 of 60
+2: 8 of 55
+3: 8 of 50
+
+Dips
+1: 9 of 0
+2: 8 of 0
+
+DB Lateral Raise
+1: 7 of 25
+2: 8 of 20
+3: 7 of 20
+
+Barbell Skullcrusher
+1: 7 of 60
+
+March 23, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 150
+2: 8 of 140
+3: 7 of 130
+
+Mid Row
+1: 8 of 205
+2: 9 of 185
+3: 8 of 185
+
+Barbell Curl
+1: 8 of 70
+2: 8 of 60
+3: 9 of 50
+
+March 26, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 11 of 215
+2: 8 of 215
+3: 8 of 195
+
+Smith Squat
+1: 8 of 110
+2: 8 of 105
+3: 7 of 100
+
+Quad Blaster
+1: 8 of 195
+
+March 27, 2025 (Push 1)
+
+Bench
+1: 7 of 55
+2: 7 of 50
+
+Incline DB Press
+1: 7 of 60
+2: 8 of 55
+3: 8 of 50
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Cable Lateral Raise
+1: 9 of 12.5
+
+Cable Tricep Pushdown
+1: 9 of 47.5
+2: 9 of 42.5
+
+March 31, 2025 (Pull 1)
+
+Cable Row
+1: 8 of 165
+2: 8 of 150
+3: 8 of 140
+
+Lat Pulldown
+1: 8 of 140
+2: 8 of 125
+3: 8 of 120
+
+Hammer Curl
+1: 8 of 40
+2: 8 of 35
+
+Incline Curl
+1: 7 of 25
+
+April 1, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 11 of 215
+2: 9 of 215
+3: 9 of 195
+
+Smith Squat
+1: 8 of 110
+2: 7 of 105
+3: 8 of 100
+
+Quad Blaster
+1: 8 of 195
+2: 
+
+April 2, 2025 (Push 2)
+
+Incline Smith
+1: 9 of 55
+2: 9 of 50
+3: 8 of 50
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 8 of 20
+
+Barbell Skullcrusher
+1: 7 of 70
+2: 8 of 60
+3: 10 of 50
+
+April 7, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 8 of 150
+2: 8 of 140
+3: 8 of 130
+
+Mid Row
+1: 8 of 205
+2: 7 of 205
+3: 8 of 185
+
+Barbell Curl
+1: 8 of 70
+2: 8 of 60
+3: 9 of 50
+
+April 8, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 11 of 215
+2: 9 of 215
+3: 9 of 185
+
+Smith Squat
+1: 7 of 110
+2: 8 of 105
+3: 8 of 100
+
+April 10, 2025 (Push 2)
+
+Incline Smith
+1: 7 of 60
+2: 8 of 55
+3: 8 of 50
+
+DB Lateral Raise
+1: 7 of 25
+2: 9 of 20
+3: 8 of 20
+4: 7 of 20
+
+Barbell Skullcrusher
+1: 8 of 70
+2: 8 of 60
+3: 9 of 50
+
+April 12, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 9 of 150
+2: 9 of 140
+3: 9 of 130
+
+Mid Row
+1: 9 of 205
+2: 8 of 205
+3: 9 of 185
+
+Barbell Curl
+1: 9 of 70
+2: 9 of 60
+3: 9 of 50
+
+April 14, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 11 of 215
+2: 9 of 215
+3: 8 of 215
+
+Smith Squat
+1: 8 of 110
+2: 8 of 105
+3: 8 of 100
+
+Quad Blaster
+1: 9 of 195
+2: 9 of 175
+3: 8 of 175
+
+April 15, 2025 (Push 1)
+
+Bench
+1: 8 of 55
+2: 9 of 50
+
+Incline DB Press
+1: 9 of 60
+2: 8 of 55
+3: 9 of 50
+
+Dips
+1: 10 of 0
+2: 9 of 0
+3: 7 of 0
+
+Cable Tricep Pushdown
+1: 7 of 60
+2: 8 of 50
+
+April 17, 2025 (Pull 1)
+
+Cable Row
+1: 9 of 165
+2: 10 of 150
+3: 9 of 150
+
+Lat Pulldown
+1: 8 of 140
+2: 9 of 125
+3: 9 of 120
+
+Hammer Curl
+1: 7 of 40
+2: 8 of 35
+
+Incline Curl
+1: 7 of 25
+2: 8 of 20
+
+April 20, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 11 of 215
+2: 8 of 215
+3: 9 of 195
+
+Smith Squat
+1: 7 of 110
+2: 8 of 105
+3: 8 of 100
+
+April 22, 2025 (Push 1)
+
+Bench
+1: 9 of 55
+2: 8 of 50
+
+Incline DB Press
+1: 8 of 60
+2: 9 of 55
+3: 9 of 50
+
+Dips
+1: 9 of 0
+2: 9 of 0
+3: 8 of 0
+
+Machine Lateral Raise
+1: 8 of 70
+2: 9 of 65
+
+Cable Tricep Pushdown
+1: 10 of 50
+2: 8 of 50
+
+April 23, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 7 of 160
+2: 9 of 140
+3: 8 of 140
+
+Mid Row
+1: 8 of 225
+2: 9 of 205
+3: 8 of 205
+
+Barbell Curl
+1: 9 of 70
+2: 9 of 60
+3: 10 of 50
+
+April 26, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 12 of 215
+2: 9 of 215
+3: 9 of 215
+
+Smith Squat
+1: 9 of 110
+2: 9 of 105
+3: 9 of 100
+
+April 29, 2025 (Push 1)
+
+Bench
+1: 7 of 60
+2: 9 of 50
+
+Incline DB Press
+1: 8 of 60
+2: 8 of 55
+3: 9 of 50
+
+Machine Lateral Raise
+1: 9 of 70
+2: 8 of 65
+3: 7 of 60
+4: 9 of 50
+
+April 30, 2025 (Pull 1)
+
+Cable Row
+1: 8 of 170
+2: 8 of 160
+3: 8 of 160
+
+Lat Pulldown
+1: 8 of 140
+2: 8 of 125
+3: 9 of 120
+
+Lat Pullover
+1: 8 of 62.5
+2: 7 of 57.5
+3: 8 of 52.5
+
+Cable Curl
+1: 9 of 52.5
+2: 8 of 47.5
+3: 8 of 42.5
+
+May 4, 2025 (Legs 1)
+
+Weird Hammy Curl
+1: 11 of 215
+2: 9 of 215
+3: 9 of 215
+
+Smith Squat
+1: 9 of 110
+2: 8 of 105
+3: 8 of 100
+
+May 6, 2025 (Push 1)
+
+Bench
+1: 7 of 60
+2: 7 of 55
+
+Incline DB Press
+1: 8 of 60
+2: 8 of 55
+3: 9 of 50
+
+Dips
+1: 9 of 0
+2: 8 of 0
+3: 7 of 0
+
+Cable Tricep Pushdown
+1: 10 of 50
+2: 9 of 50
+3: 8 of 50
+
+Cable Lateral Raise
+1: 9 of 15
+2: 9 of 10
+3: 8 of 10
+
+May 7, 2025 (Pull 2)
+
+Single Cable Lat Pulldown
+1: 9 of 150
+2: 8 of 150
+3: 8 of 140
+
+Mid Row
+1: 8 of 225
+2: 9 of 205
+3: 8 of 205
+
+Barbell Curl
+1: 9 of 70
+2: 9 of 60
+3: 9 of 50
